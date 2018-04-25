@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+.genericO {
+    font-size: 68px;
+    display: block;
+    position: absolute;
+    left: 22%;
+    top: 9%;
+    color:#aba009;
+
+}
+.genericX {
+    font-size: 68px;
+    display: block;
+    position: absolute;
+    left: 22%;
+    top: 9%;
+    color:#0978ab;
+    
+}
